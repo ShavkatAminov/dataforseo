@@ -1,0 +1,9 @@
+dfs:
+  login: login
+  password: password
+  baseUrl: url
+  systems: 
+    google:
+      locationUrl: link
+      taksUrl: 
+  
